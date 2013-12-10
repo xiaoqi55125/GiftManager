@@ -22,6 +22,3 @@
   Desc: the proxy of gift
  */
 
-
-//mode
-'use strict';

@@ -23,9 +23,6 @@
  */
 
 
-//mode
-'use strict';
-
 module.exports = function () {
     var configInfo = {
 
@@ -59,4 +56,4 @@ module.exports = function () {
     };
 
     return configInfo;
-}
+};

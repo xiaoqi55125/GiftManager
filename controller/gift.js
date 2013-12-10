@@ -21,7 +21,3 @@
   Time: 11:50 AM
   Desc: the controller of gift
  */
-
-
-//mode
-'use strict';

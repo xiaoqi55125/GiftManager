@@ -23,9 +23,6 @@
  */
 
 
-//mode
-'use strict';
-
 var path = require("path");
 
 exports.config = {
